@@ -1,6 +1,5 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/kemaldemirgil/directory-html?color=red&label=HTML&logo=html)
 ![GitHub language count](https://img.shields.io/github/languages/count/kemaldemirgil/directory-html?color=red&label=Language%20count%3A&logo=html)
-![GitHub repo size](https://img.shields.io/github/repo-size/kemaldemirgil/directory-html?color=cyan&logo=git&logoColor=cyan)
 ![GitHub](https://img.shields.io/github/license/kemaldemirgil/directory-html?color=green)
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkemaldemirgil.github.io%2Fdirectory-html%2F)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kemaldemirgil/directory-html?color=blue&logo=git&logoColor=blue)
