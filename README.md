@@ -10,11 +10,11 @@
 # HTML Directory
 
 ## Description:
-This directory, which includes most of `HTML5`, is a collection of the syntax used in the language. It will be used for further referencing and it'll be staying up to date with the most recent version.
+This directory, which includes most of `HTML5`, is a collection of the syntax used in the language. It will be used for further referencing, and it'll be staying up to date with the most recent version.
 
 ## Notes:
 I've added the base structure and important aspects of the language but, it does not include %100 everything about `HTML5`.
-Certain aspects connected with `HTML`, will be added using `CSS` and `Javascipt` in the further directories.
+Certain aspects connected with `HTML`, will be added using `CSS` and `JavaScipt` in the further directories.
 For now, this is pure vanilla HTML5...
 
 ## Improvements:
