@@ -24,7 +24,7 @@ Please contact me for any ideas & additional content that could be added...
 
 ## Webpage:
 https://kemaldemirgil.github.io/directory-html/
-![`Rock-Paper-Scissors`](img/ssdirectory.png)
+![`html-directory`](img/ssdirectory.png)
 
 ### License:
 
